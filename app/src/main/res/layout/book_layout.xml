@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:padding="16dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:textColor="#0B0C0C"
+        android:textSize="30sp"
+        android:id="@+id/mTvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:textColor="#060707"
+        android:textSize="20sp"
+        android:id="@+id/mTvAuthor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:textColor="#010202"
+        android:textSize="20sp"
+        android:id="@+id/mTvPublisher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:textColor="#080809"
+        android:textSize="20sp"
+        android:id="@+id/mTvCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:textColor="#080809"
+        android:textSize="20sp"
+        android:id="@+id/mTvPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:textColor="#080809"
+        android:textSize="20sp"
+        android:id="@+id/mTvDeliveryPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/mImgPic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

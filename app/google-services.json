@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712598930161",
+    "project_id": "keytabu-e9627",
+    "storage_bucket": "keytabu-e9627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712598930161:android:e41e4bc24f63da84fb1f50",
+        "android_client_info": {
+          "package_name": "com.muthoknee.keytabuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712598930161-39t0h15qjqqpen9dhqhkveit87fn99q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAULpvDnEUwZ4mqGLm9XCroRoIy5GhSDUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712598930161-39t0h15qjqqpen9dhqhkveit87fn99q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KeyTabuApp</string>
+    <string-array name="categories">
+        <item>Select category</item>
+        <item>Text book</item>
+        <item>Story book</item>
+        <item>Novel</item>
+        <item>Set books</item>
+        <item>Reference books</item>
+        <item>Course book</item>
+    </string-array>
+</resources>
